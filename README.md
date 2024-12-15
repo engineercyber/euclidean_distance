@@ -24,6 +24,7 @@ Bir döngü kullanarak, ‘points’ listesindeki her nokta çifti arasındaki �
 
 ## İletişim
 
-[Engin Tanış] - [engintanis1@gmail.com]
+Engin Tanış - engintanis1@gmail.com
 
-Proje Linki: [Projenizin bağlantısı]
+Proje Linki: 
+https://github.com/engineercyber/euclidean_distance.git
